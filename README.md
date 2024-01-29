@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/stoicaandrei/crunchbase-scraper.svg)](https://github.com/stoicaandrei/crunchbase-scraper/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/stoicaandrei/crunchbase-scraper.svg)](https://github.com/stoicaandrei/crunchbase-scraper/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/pallavi-2025/crunchbase-scraper.svg)](https://github.com/pallavi-2025/crunchbase-scraper/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/pallavi-2025/crunchbase-scraper.svg)](https://github.com/pallavi-2025/crunchbase-scraper/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -61,9 +61,9 @@ In order to scrape data using the company names run `python crunchbase_scraper.p
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@stoicaandrei](https://github.com/stoicaandrei) - Idea & Initial work
+- [@pallavi-2025](https://github.com/pallavi-2025) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/stoicaandrei/crunchbase-scraper/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/pallavi-2025/crunchbase-scraper/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
